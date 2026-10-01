@@ -1,8 +1,25 @@
 # limpidR
 
+[![CRAN status](https://www.r-pkg.org/badges/version/limpidR)](https://CRAN.R-project.org/package=limpidR)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23076530.svg)](https://doi.org/10.5281/zenodo.23076530)
+
 **Reproducible analysis of freshwater microplastic data**
 
 Maintainer: **Chanikya Naidu** (<thefisherieschanikyaneeti@gmail.com>)
+
+## Installation
+
+Install the released version from CRAN:
+
+```r
+install.packages("limpidR")
+```
+
+## Citation
+
+To cite limpidR in publications, use:
+
+> Naidu C (2026). limpidR: Reproducible Analysis of Freshwater Microplastic Data. R package version 0.1.0, https://CRAN.R-project.org/package=limpidR, doi:10.32614/CRAN.package.limpidR.
 
 `limpidR` is the companion research-software toolkit for **LIMPID-India** (*Lake Inventory of Microplastic Pollution in Indian Freshwaters*). It is designed for transparent, reusable analysis of freshwater microplastic datasets rather than one-off thesis scripts.
 
@@ -94,4 +111,4 @@ The package bundles a deterministic **synthetic** CSV dataset that follows the L
 
 ## Status
 
-**Version 0.1.0 is published on CRAN and maintained by Chanikya Naidu. Creator/maintainer metadata are complete. Before uploading to CRAN, build the source tarball with `R CMD build` and run `R CMD check --as-cran` plus appropriate multi-platform checks.
+Version **0.1.0** is published on CRAN and archived on Zenodo, maintained by **Chanikya Naidu**.
