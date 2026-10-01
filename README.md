@@ -94,4 +94,4 @@ The package bundles a deterministic **synthetic** CSV dataset that follows the L
 
 ## Status
 
-Version **0.1.0** is a CRAN submission candidate maintained by **Chanikya Naidu**. Creator/maintainer metadata are complete. Before uploading to CRAN, build the source tarball with `R CMD build` and run `R CMD check --as-cran` plus appropriate multi-platform checks.
+Version **0.1.0** is a CRAN submission maintained by **Chanikya Naidu**. Creator/maintainer metadata are complete. Before uploading to CRAN, build the source tarball with `R CMD build` and run `R CMD check --as-cran` plus appropriate multi-platform checks.
