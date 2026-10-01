@@ -1,0 +1,7 @@
+Record_ID,Lake_ID,Event_ID,Variable,Value,Unit,Source_Organisation,Source_Type,Source_URL,Retrieval_Date,Spatial_Scope,Temporal_Scope,Spatial_Match,Temporal_Match,Confidence_Class,Use_For_Modeling,Notes
+DPRV001,DL001,,Synthetic_Record,1,flag,limpidR,Synthetic package example,,2026-09-18,Synthetic,Synthetic,Exact synthetic,Exact synthetic,A-demo,Software_examples_only,Fictional provenance row.
+DPRV002,DL002,,Synthetic_Record,1,flag,limpidR,Synthetic package example,,2026-09-18,Synthetic,Synthetic,Exact synthetic,Exact synthetic,A-demo,Software_examples_only,Fictional provenance row.
+DPRV003,DL003,,Synthetic_Record,1,flag,limpidR,Synthetic package example,,2026-09-18,Synthetic,Synthetic,Exact synthetic,Exact synthetic,A-demo,Software_examples_only,Fictional provenance row.
+DPRV004,DL004,,Synthetic_Record,1,flag,limpidR,Synthetic package example,,2026-09-18,Synthetic,Synthetic,Exact synthetic,Exact synthetic,A-demo,Software_examples_only,Fictional provenance row.
+DPRV005,DL005,,Synthetic_Record,1,flag,limpidR,Synthetic package example,,2026-09-18,Synthetic,Synthetic,Exact synthetic,Exact synthetic,A-demo,Software_examples_only,Fictional provenance row.
+DPRV006,DL006,,Synthetic_Record,1,flag,limpidR,Synthetic package example,,2026-09-18,Synthetic,Synthetic,Exact synthetic,Exact synthetic,A-demo,Software_examples_only,Fictional provenance row.

@@ -1,19 +1,4 @@
 # limpidR
-[![CRAN status](https://www.r-pkg.org/badges/version/limpidR)](https://CRAN.R-project.org/package=limpidR)
-
-## Installation
-
-Install the released version from CRAN:
-
-\`\`\`r
-install.packages("limpidR")
-\`\`\`
-
-## Citation
-
-To cite limpidR in publications, use:
-
-> Naidu C (2026). limpidR: Reproducible Analysis of Freshwater Microplastic Data. R package version 0.1.0, https://CRAN.R-project.org/package=limpidR, doi:10.32614/CRAN.package.limpidR.
 
 **Reproducible analysis of freshwater microplastic data**
 

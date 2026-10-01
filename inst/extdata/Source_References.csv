@@ -1,0 +1,2 @@
+Source_ID,Source_Type,Citation_or_File,DOI_or_URL,Applies_To,Version_or_Date,Notes
+DSRC001,Synthetic package example,Generated specifically for limpidR software tests/examples,,All bundled extdata,0.1.0,No observed or third-party scientific measurements are contained in the bundled demonstration data.

@@ -1,0 +1,25 @@
+Abundance_ID,Event_ID,Lake_ID,Lake_Name,Matrix,MP_Mean,MP_SD,Unit,N_Units,Summary_Level,QA_Note
+DAB001,DEVT001,DL001,Demo Urban North,Water,17.35,2.08,particles L^-1,3,Lake-event summary,Synthetic deterministic example.
+DAB002,DEVT002,DL001,Demo Urban North,Water,21.7,2.6,particles L^-1,3,Lake-event summary,Synthetic deterministic example.
+DAB003,DEVT003,DL001,Demo Urban North,Water,28.05,3.37,particles L^-1,3,Lake-event summary,Synthetic deterministic example.
+DAB004,DEVT004,DL001,Demo Urban North,Water,21.4,2.57,particles L^-1,3,Lake-event summary,Synthetic deterministic example.
+DAB005,DEVT005,DL002,Demo Urban West,Water,20.7,2.48,particles L^-1,3,Lake-event summary,Synthetic deterministic example.
+DAB006,DEVT006,DL002,Demo Urban West,Water,25.4,3.05,particles L^-1,3,Lake-event summary,Synthetic deterministic example.
+DAB007,DEVT007,DL002,Demo Urban West,Water,32.1,3.85,particles L^-1,3,Lake-event summary,Synthetic deterministic example.
+DAB008,DEVT008,DL002,Demo Urban West,Water,25.8,3.1,particles L^-1,3,Lake-event summary,Synthetic deterministic example.
+DAB009,DEVT009,DL003,Demo Urban South,Water,24.05,2.89,particles L^-1,3,Lake-event summary,Synthetic deterministic example.
+DAB010,DEVT010,DL003,Demo Urban South,Water,29.1,3.49,particles L^-1,3,Lake-event summary,Synthetic deterministic example.
+DAB011,DEVT011,DL003,Demo Urban South,Water,36.15,4.34,particles L^-1,3,Lake-event summary,Synthetic deterministic example.
+DAB012,DEVT012,DL003,Demo Urban South,Water,30.2,3.62,particles L^-1,3,Lake-event summary,Synthetic deterministic example.
+DAB013,DEVT013,DL004,Demo Reference Hill,Water,21.4,2.57,particles L^-1,3,Lake-event summary,Synthetic deterministic example.
+DAB014,DEVT014,DL004,Demo Reference Hill,Water,26.8,3.22,particles L^-1,3,Lake-event summary,Synthetic deterministic example.
+DAB015,DEVT015,DL004,Demo Reference Hill,Water,34.2,4.1,particles L^-1,3,Lake-event summary,Synthetic deterministic example.
+DAB016,DEVT016,DL004,Demo Reference Hill,Water,28.6,3.43,particles L^-1,3,Lake-event summary,Synthetic deterministic example.
+DAB017,DEVT017,DL005,Demo Reference East,Water,24.75,2.97,particles L^-1,3,Lake-event summary,Synthetic deterministic example.
+DAB018,DEVT018,DL005,Demo Reference East,Water,30.5,3.66,particles L^-1,3,Lake-event summary,Synthetic deterministic example.
+DAB019,DEVT019,DL005,Demo Reference East,Water,38.25,4.59,particles L^-1,3,Lake-event summary,Synthetic deterministic example.
+DAB020,DEVT020,DL005,Demo Reference East,Water,33.0,3.96,particles L^-1,3,Lake-event summary,Synthetic deterministic example.
+DAB021,DEVT021,DL006,Demo Reference Coastal,Water,28.1,3.37,particles L^-1,3,Lake-event summary,Synthetic deterministic example.
+DAB022,DEVT022,DL006,Demo Reference Coastal,Water,34.2,4.1,particles L^-1,3,Lake-event summary,Synthetic deterministic example.
+DAB023,DEVT023,DL006,Demo Reference Coastal,Water,42.3,5.08,particles L^-1,3,Lake-event summary,Synthetic deterministic example.
+DAB024,DEVT024,DL006,Demo Reference Coastal,Water,37.4,4.49,particles L^-1,3,Lake-event summary,Synthetic deterministic example.

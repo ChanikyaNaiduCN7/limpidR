@@ -1,0 +1,3 @@
+Event_ID,Lake_ID,Lake_Name,Month,N_Official_Observations,pH_mean,DO_mean_mg_L,Conductivity_mean_uS_cm,Turbidity_mean_NTU,BOD_mean_mg_L,COD_mean_mg_L,TDS_mean_mg_L,Model_Use,Aggregation_Rule
+DEVT005,DL002,Demo Urban West,2024-01,1,7.4,6.2,310,2.5,3.1,12,210,Software example only,Single synthetic record.
+DEVT006,DL002,Demo Urban West,2024-04,1,7.5,6.0,320,2.8,3.3,13,215,Software example only,Single synthetic record.

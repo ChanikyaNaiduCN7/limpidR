@@ -1,0 +1,25 @@
+Event_ID,Lake_ID,Lake_Name,Sampling_Date,Event_Label,Season_Source,Season_Global,Matrix,Sampling_Level,Stations_N,Depths_N,Sample_Amount_per_unit,Sample_Unit,N_abundance_units,Composition_Level,Method_ID,Source_File,QA_Flag
+DEVT001,DL001,Demo Urban North,2024-01-15,Jan-24,Winter,Winter,Water,Lake-event summary,3,1,5,L per station,3,Lake-event summary,MTH-DEMO-WATER,Synthetic demonstration data,Synthetic
+DEVT002,DL001,Demo Urban North,2024-04-15,Apr-24,Pre-monsoon,Pre-monsoon,Water,Lake-event summary,3,1,5,L per station,3,Lake-event summary,MTH-DEMO-WATER,Synthetic demonstration data,Synthetic
+DEVT003,DL001,Demo Urban North,2024-07-15,Jul-24,Monsoon,Monsoon,Water,Lake-event summary,3,1,5,L per station,3,Lake-event summary,MTH-DEMO-WATER,Synthetic demonstration data,Synthetic
+DEVT004,DL001,Demo Urban North,2024-10-15,Oct-24,Post-monsoon,Post-monsoon,Water,Lake-event summary,3,1,5,L per station,3,Lake-event summary,MTH-DEMO-WATER,Synthetic demonstration data,Synthetic
+DEVT005,DL002,Demo Urban West,2024-01-15,Jan-24,Winter,Winter,Water,Lake-event summary,3,1,5,L per station,3,Lake-event summary,MTH-DEMO-WATER,Synthetic demonstration data,Synthetic
+DEVT006,DL002,Demo Urban West,2024-04-15,Apr-24,Pre-monsoon,Pre-monsoon,Water,Lake-event summary,3,1,5,L per station,3,Lake-event summary,MTH-DEMO-WATER,Synthetic demonstration data,Synthetic
+DEVT007,DL002,Demo Urban West,2024-07-15,Jul-24,Monsoon,Monsoon,Water,Lake-event summary,3,1,5,L per station,3,Lake-event summary,MTH-DEMO-WATER,Synthetic demonstration data,Synthetic
+DEVT008,DL002,Demo Urban West,2024-10-15,Oct-24,Post-monsoon,Post-monsoon,Water,Lake-event summary,3,1,5,L per station,3,Lake-event summary,MTH-DEMO-WATER,Synthetic demonstration data,Synthetic
+DEVT009,DL003,Demo Urban South,2024-01-15,Jan-24,Winter,Winter,Water,Lake-event summary,3,1,5,L per station,3,Lake-event summary,MTH-DEMO-WATER,Synthetic demonstration data,Synthetic
+DEVT010,DL003,Demo Urban South,2024-04-15,Apr-24,Pre-monsoon,Pre-monsoon,Water,Lake-event summary,3,1,5,L per station,3,Lake-event summary,MTH-DEMO-WATER,Synthetic demonstration data,Synthetic
+DEVT011,DL003,Demo Urban South,2024-07-15,Jul-24,Monsoon,Monsoon,Water,Lake-event summary,3,1,5,L per station,3,Lake-event summary,MTH-DEMO-WATER,Synthetic demonstration data,Synthetic
+DEVT012,DL003,Demo Urban South,2024-10-15,Oct-24,Post-monsoon,Post-monsoon,Water,Lake-event summary,3,1,5,L per station,3,Lake-event summary,MTH-DEMO-WATER,Synthetic demonstration data,Synthetic
+DEVT013,DL004,Demo Reference Hill,2024-01-15,Jan-24,Winter,Winter,Water,Lake-event summary,3,1,5,L per station,3,Lake-event summary,MTH-DEMO-WATER,Synthetic demonstration data,Synthetic
+DEVT014,DL004,Demo Reference Hill,2024-04-15,Apr-24,Pre-monsoon,Pre-monsoon,Water,Lake-event summary,3,1,5,L per station,3,Lake-event summary,MTH-DEMO-WATER,Synthetic demonstration data,Synthetic
+DEVT015,DL004,Demo Reference Hill,2024-07-15,Jul-24,Monsoon,Monsoon,Water,Lake-event summary,3,1,5,L per station,3,Lake-event summary,MTH-DEMO-WATER,Synthetic demonstration data,Synthetic
+DEVT016,DL004,Demo Reference Hill,2024-10-15,Oct-24,Post-monsoon,Post-monsoon,Water,Lake-event summary,3,1,5,L per station,3,Lake-event summary,MTH-DEMO-WATER,Synthetic demonstration data,Synthetic
+DEVT017,DL005,Demo Reference East,2024-01-15,Jan-24,Winter,Winter,Water,Lake-event summary,3,1,5,L per station,3,Lake-event summary,MTH-DEMO-WATER,Synthetic demonstration data,Synthetic
+DEVT018,DL005,Demo Reference East,2024-04-15,Apr-24,Pre-monsoon,Pre-monsoon,Water,Lake-event summary,3,1,5,L per station,3,Lake-event summary,MTH-DEMO-WATER,Synthetic demonstration data,Synthetic
+DEVT019,DL005,Demo Reference East,2024-07-15,Jul-24,Monsoon,Monsoon,Water,Lake-event summary,3,1,5,L per station,3,Lake-event summary,MTH-DEMO-WATER,Synthetic demonstration data,Synthetic
+DEVT020,DL005,Demo Reference East,2024-10-15,Oct-24,Post-monsoon,Post-monsoon,Water,Lake-event summary,3,1,5,L per station,3,Lake-event summary,MTH-DEMO-WATER,Synthetic demonstration data,Synthetic
+DEVT021,DL006,Demo Reference Coastal,2024-01-15,Jan-24,Winter,Winter,Water,Lake-event summary,3,1,5,L per station,3,Lake-event summary,MTH-DEMO-WATER,Synthetic demonstration data,Synthetic
+DEVT022,DL006,Demo Reference Coastal,2024-04-15,Apr-24,Pre-monsoon,Pre-monsoon,Water,Lake-event summary,3,1,5,L per station,3,Lake-event summary,MTH-DEMO-WATER,Synthetic demonstration data,Synthetic
+DEVT023,DL006,Demo Reference Coastal,2024-07-15,Jul-24,Monsoon,Monsoon,Water,Lake-event summary,3,1,5,L per station,3,Lake-event summary,MTH-DEMO-WATER,Synthetic demonstration data,Synthetic
+DEVT024,DL006,Demo Reference Coastal,2024-10-15,Oct-24,Post-monsoon,Post-monsoon,Water,Lake-event summary,3,1,5,L per station,3,Lake-event summary,MTH-DEMO-WATER,Synthetic demonstration data,Synthetic

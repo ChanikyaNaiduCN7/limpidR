@@ -1,0 +1,4 @@
+Station_ID,Lake_ID,Lake_Name,Station_Code,Station_Name,Zone,Latitude,Longitude,Coordinate_Source,Source_URL,Data_Status,Notes
+DST01,DL002,Demo Urban West,A,Demo Station A,Inflow,19.12,72.9,Synthetic coordinates,,Synthetic example,Fictional station.
+DST02,DL002,Demo Urban West,B,Demo Station B,Near-shore,19.121,72.902,Synthetic coordinates,,Synthetic example,Fictional station.
+DST03,DL002,Demo Urban West,C,Demo Station C,Open-water,19.123,72.904,Synthetic coordinates,,Synthetic example,Fictional station.
