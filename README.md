@@ -2,7 +2,7 @@
 
 [![CRAN status](https://www.r-pkg.org/badges/version/limpidR)](https://CRAN.R-project.org/package=limpidR)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23076530.svg)](https://doi.org/10.5281/zenodo.23076530)
-
+For the archived software record, cite the Zenodo DOI: https://doi.org/10.5281/zenodo.23076530
 **Reproducible analysis of freshwater microplastic data**
 
 Maintainer: **Chanikya Naidu** (<thefisherieschanikyaneeti@gmail.com>)
