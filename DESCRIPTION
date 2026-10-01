@@ -1,0 +1,32 @@
+Package: limpidR
+Type: Package
+Title: Reproducible Analysis of Freshwater Microplastic Data
+Version: 0.1.0
+Authors@R: person(
+    given = "Chanikya",
+    family = "Naidu",
+    email = "thefisherieschanikyaneeti@gmail.com",
+    role = c("aut", "cre")
+  )
+Author: Chanikya Naidu [aut, cre]
+Maintainer: Chanikya Naidu <thefisherieschanikyaneeti@gmail.com>
+Description: Provides validation, harmonization, descriptive analysis,
+    compositional analysis, transparent risk components, grouped
+    cross-validation, visualization, and predictive modelling tools for
+    freshwater microplastic datasets. The package includes synthetic
+    demonstration data conforming to the LIMPID-India data model and
+    emphasizes explicit units, provenance, percentage closure, non-imputation
+    of missing environmental covariates, and leakage-aware model evaluation.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Depends: R (>= 4.1.0)
+Imports:
+    ggplot2
+Suggests:
+    knitr,
+    rmarkdown,
+    readxl,
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+VignetteBuilder: knitr
+RoxygenNote: 7.3.2

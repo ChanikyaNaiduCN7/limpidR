@@ -1,0 +1,9 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^\.github$
+^cran-comments\.md$
+^CRAN_SUBMISSION_CHECKLIST\.md$
+^STATIC_AUDIT\.md$
+^PACKAGE_BUILD_REPORT\.md$
+^doc$
+^Meta$
