@@ -1,0 +1,3 @@
+WQ_ID,Event_ID,Lake_ID,Lake_Name,Station_or_Location,Sampling_Date,pH,DO_mg_L,BOD_mg_L,COD_mg_L,Conductivity_uS_cm,Turbidity_NTU,TDS_mg_L,Total_Solids_mg_L,TSS_mg_L,Source_Agency,Source_URL,Temporal_Match,Spatial_Match,Special_Event_Context,Model_Use,Notes
+DWQ001,DEVT005,DL002,Demo Urban West,Demo station A,2024-01-15,7.4,6.2,3.1,12.0,310,2.5,210,220,10,limpidR synthetic generator,,Exact synthetic,Exact synthetic,None,Software example only,Fictional value.
+DWQ002,DEVT006,DL002,Demo Urban West,Demo station B,2024-04-15,7.5,6.0,3.3,13.0,320,2.8,215,225,10,limpidR synthetic generator,,Exact synthetic,Exact synthetic,None,Software example only,Fictional value.

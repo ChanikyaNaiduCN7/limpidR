@@ -1,0 +1,39 @@
+---
+title: "Scientific design and reproducibility"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Scientific design and reproducibility}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+`limpidR` separates data validation, descriptive analysis, compositional analysis,
+model fitting, validation and visualization.
+
+## Missingness
+
+Missing environmental context remains missing. The package does not interpret blank cells
+as zero and does not automatically impute climate, water-quality, land-use or population
+covariates.
+
+## Model validation
+
+Use lake-grouped cross-validation for cross-lake generalization questions. For temporal
+forecasting within a sentinel lake, use a time-blocked validation design outside the default
+leave-one-lake-out workflow.
+
+## Hotspots
+
+`classify_hotspots()` and `map_mp_hotspots()` provide relative point classifications.
+They do not claim kriging, transport modelling or hydrodynamic interpolation.
+
+## Depth
+
+The bundled synthetic example is event-level. `plot_depth_profile()` therefore refuses a `limpid_db`
+object and requires a genuinely depth-resolved data frame.
+
+## Risk
+
+Risk is assumption-sensitive. `calculate_risk()` exposes contamination, polymer-hazard and
+fine-particle components separately. A composite score is produced only when the user supplies
+both weights and explicit component maxima.

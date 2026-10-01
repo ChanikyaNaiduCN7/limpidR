@@ -1,0 +1,5 @@
+Bundled limpidR demonstration data
+
+All CSV files bundled in inst/extdata for limpidR 0.1.0 are synthetic demonstration data created for package examples and automated tests. They contain no observed measurements and no copied third-party data.
+
+They are distributed under the same MIT license as the limpidR package.

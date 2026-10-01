@@ -1,0 +1,67 @@
+---
+title: "Getting started with limpidR"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Getting started with limpidR}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, setup, message=FALSE}
+library(limpidR)
+```
+
+## Load and validate
+
+```{r}
+db <- load_limpid(quiet = TRUE)
+check_database(db)
+```
+
+`check_database()` validates identifiers, cross-table event alignment, abundance ranges,
+composition closure, coordinates, abundance units and method links.
+
+## Descriptive analysis
+
+```{r}
+head(summarise_abundance(db))
+head(analyse_morphology(db))
+head(analyse_size_distribution(db))
+head(analyse_polymers(db))
+```
+
+## Modelling without random-row leakage
+
+For a multisite database, random row splitting can place observations from the same lake
+in both training and testing sets. `cross_validate_mp()` therefore defaults to grouped
+validation by `Lake_ID`.
+
+```{r}
+cv <- cross_validate_mp(
+  db,
+  MP_Mean ~ Season_Global + Lake_Type,
+  method = "lognormal_lm",
+  group = "Lake_ID"
+)
+cv$overall
+```
+
+## Compositional data
+
+Polymer, morphology and size profiles are compositional. `limpidR` provides closure checks,
+CLR transformation and Aitchison distance. Zero handling is explicit through the
+`pseudocount` argument.
+
+```{r}
+pol <- db$Polymer_Composition
+cols <- c("PE_pct", "PP_pct", "PET_PES_pct", "PA_Nylon_pct",
+          "PS_EPS_pct", "PVC_pct", "OtherPolymer_pct")
+head(clr_transform(pol, cols))
+aitchison_distance(pol, cols)
+```
+
+## Risk components
+
+`calculate_risk()` intentionally does not ship a universal polymer-hazard weighting scheme.
+Supply the abundance reference and any polymer hazard values used in your study, and report
+them in the methods section.

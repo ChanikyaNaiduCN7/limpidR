@@ -1,0 +1,9 @@
+citHeader("To cite limpidR in publications use:")
+
+bibentry(
+  bibtype = "Manual",
+  title = "limpidR: Reproducible Analysis of Freshwater Microplastic Data",
+  author = person("Chanikya", "Naidu"),
+  year = "2026",
+  note = "R package version 0.1.0"
+)
